@@ -1,0 +1,3 @@
+#%PAM-1.0
+# PAM service used by conchy-lock. Mirrors `login` so lockout/faildelay policy stays consistent.
+auth        include     login

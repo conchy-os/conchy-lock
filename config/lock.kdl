@@ -1,0 +1,4 @@
+// ~/.config/conchy/lock.kdl  — colors come from theme.kdl automatically
+wallpaper "~/wallpapers/h_149.jpg"
+blur 28     // logical px
+dim 0.16    // 0..1
